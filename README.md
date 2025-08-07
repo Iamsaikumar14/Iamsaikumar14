@@ -11,8 +11,6 @@ I am currently pursuing my **B.Tech** at the National Institute of Technology, R
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamsaikumar14&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Iamsaikumar14&theme=algolia)](https://git.io/streak-stats)
-
 ---
 
 ## 💻 Technical Skills
