@@ -15,11 +15,6 @@ I am currently pursuing a **B.Tech in Industrial Design** at the National Instit
 
 ---
 
-
----
-
----
-
 ## 💻 Technical Skills
 
 - **Languages:** Python, C, C++, Matlab
