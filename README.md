@@ -1,7 +1,7 @@
 # Hi there, I'm Sanapala Sai Kumar! 👋
 
 Welcome to my GitHub profile.  
-I am currently pursuing a **B.Tech in Industrial Design** at the National Institute of Technology, Rourkela. My passion lies in building intelligent systems, large language models, and innovative AI tools—especially those that leverage deep learning and NLP.
+I am currently pursuing my **B.Tech ** at the National Institute of Technology, Rourkela. My passion lies in building intelligent systems, large language models, and innovative AI tools—especially those that leverage deep learning and NLP Generative AI etc...
 
 ---
 
